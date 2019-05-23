@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun May 19 14:47:34 2019
+
+@author: prawigya
+"""
+r1= 100
+r2=200
+new=0
+print(r2)
+for i in range(3):
+    new = 2*r2 - r1
+    r2=new
+    r1=r2
+    print(r2)

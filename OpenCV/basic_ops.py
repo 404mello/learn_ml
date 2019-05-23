@@ -36,5 +36,6 @@ while(True):
 """
 
 cv2.imshow('Oasd',img)
+cv2.imshow('asd',dragon_face)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
