@@ -1,3 +1,3 @@
-Learning concepts of Machine learning from different online sources
-Files added so far
-Img Processing
+<h>Learning concepts and implementation of Machine Learning Algorithms</h>
+
+
